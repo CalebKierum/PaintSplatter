@@ -1,5 +1,7 @@
 # Paint Splatter
 
+![Image](https://i.imgur.com/NW2RWCM.png)
+
 This is a first attempt at the simulation of watercolors vaguely based on "Real-time simulation of watery paint" Tom Laerhoven.
 
 This project generates water-color paint splatters procedurally then simulates the mixing and drying of paint colors.
@@ -36,3 +38,9 @@ After generating the course geometry the following steps are preformed to make i
 ## Watercolor simulation
 
 The alpha channel is used to store the water level/wettness of the paint.
+
+## Video
+
+This simulation was originally made to be a Playground. However due to the buggy nature of Playgrounds it has been ported to just an iOS app.
+
+[![](http://img.youtube.com/vi/pRubVq0Fulc/0.jpg)](http://www.youtube.com/watch?v=pRubVq0Fulc "")
