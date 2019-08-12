@@ -30,7 +30,7 @@ After generating the course geometry the following steps are preformed to make i
 ![Noised](https://i.imgur.com/HplckwN.png)
 
 4. Clamp the result within a range
-![Clamped](https://i.imgur.com/cRBwGBW.png)
+![Clamped](https://i.imgur.com/cktL0EJ.png)
 
 
 ## Watercolor simulation
