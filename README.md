@@ -15,22 +15,22 @@ The geometry of the paint splatter consists of procedurally generated components
 3. Create some random splatters out from the center
 4. Create lines out from the center with some beads on them
 
-!(Core Ball)[https://i.imgur.com/7xU1Pzt.png]
+![Core Ball](https://i.imgur.com/7xU1Pzt.png)
 
 ### Second Phase: Post Processing
 
 After generating the course geometry the following steps are preformed to make it look organic
 
 1. Blur the texture
-!(Blurred)[https://i.imgur.com/40iekB3.png]
+![Blurred](https://i.imgur.com/40iekB3.png)
 
 2. Add Random Noise
 
 3. Add "Natural" looking noise
-!(Noised)[https://i.imgur.com/HplckwN.png]
+![Noised](https://i.imgur.com/HplckwN.png)
 
 4. Clamp the result within a range
-!(Clamped)[https://i.imgur.com/cRBwGBW.png]
+![Clamped](https://i.imgur.com/cRBwGBW.png)
 
 
 ## Watercolor simulation
